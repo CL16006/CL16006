@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👩‍💻 Ingeniera Fullstack
 
-<!--
-**CL16006/CL16006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy ingeniera de software especializada en el desarrollo **fullstack**. Trabajo principalmente con:
 
-Here are some ideas to get you started:
+- ⚡ **Frontend:** Vue.js
+- 🛠️ **Backend:** Laravel, Python
+- 🐳 **DevOps:** Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Desarrollo aplicaciones modernas, escalables y orientadas a resultados.  
+🔹 Me enfoco en la calidad del código, buenas prácticas y despliegue continuo.  
+🔹 Apasionada por el aprendizaje constante y la colaboración en proyectos innovadores y de código abierto.
+
+---
+
+📫 **¿Buscas colaboración o tienes alguna idea?**  
+¡Estoy siempre abierta a nuevos retos y oportunidades profesionales!
